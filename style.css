@@ -1,0 +1,74 @@
+body {
+  font-family: cursive;
+}
+h1 {
+  margin-left: 45%;
+}
+.chicken {
+  border: 2px solid black;
+  width: 400px;
+  height: 200px;
+  background-color: rgba(128, 128, 128, 0.733);
+  margin-left: 2%;
+  margin-top: 3%;
+  display: inline-block;
+}
+.beef {
+  border: 2px solid black;
+  width: 400px;
+  height: 200px;
+  background-color: rgba(128, 128, 128, 0.733);
+  margin-left: 2%;
+  margin-top: 3%;
+  display: inline-block;
+}
+.sushi {
+  border: 2px solid black;
+  width: 400px;
+  height: 200px;
+  background-color: rgba(128, 128, 128, 0.733);
+  margin-left: 2%;
+  margin-top: 3%;
+  display: inline-block;
+}
+.c {
+  position: relative;
+  text-wrap: wrap;
+  padding-top: 13%;
+  display: inline-block;
+}
+.b {
+  position: relative;
+  text-wrap: wrap;
+  padding-top: 13%;
+  display: inline-block;
+}
+.s {
+  position: relative;
+  text-wrap: wrap;
+  padding-top: 13%;
+  display: inline-block;
+}
+.tag1 {
+  border: 1px solid black;
+  width: 20%;
+  background-color: rgba(205, 92, 92, 0.61);
+  text-align: center;
+  position: inherit;
+  float: right;
+}
+.tag2 {
+  border: 1px solid black;
+  width: 20%;
+  background-color: rgb(210, 48, 48);
+  color: white;
+  text-align: center;
+  float: right;
+}
+.tag3 {
+  border: 1px solid black;
+  width: 20%;
+  text-align: center;
+  background-color: rgba(228, 186, 134, 0.982);
+  float: right;
+}
